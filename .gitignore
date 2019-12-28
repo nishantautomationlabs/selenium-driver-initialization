@@ -1,0 +1,15 @@
+.idea
+*.log*
+*.iml
+*.patch
+*.iws
+*.ipr
+*.ids
+*jar
+lib
+classes
+target
+out
+dependency-reduced-pom.xml
+.gitignore~
+test-output
